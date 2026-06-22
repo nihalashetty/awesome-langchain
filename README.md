@@ -127,6 +127,7 @@ List of non-official ports of LangChain to other languages.
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+- [Forge](https://github.com/nihalashetty/Forge) - Open-source, self-hosted platform to visually build, test, and ship LangChain/LangGraph agents and workflows.
 
 ## Open Source Projects
 
